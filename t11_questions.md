@@ -13,8 +13,8 @@ ___
 ```
     |                 | Monday | Wednesday | Friday |
     |-----------------|--------|-----------|--------|
-    | Driver          |        |           |        |
-    | Navigator       |        |           |        |
+    | Driver          | Sara       |  Dayton       |    Sara    |
+    | Navigator       | Dayton     |   Sara        |    Dayton    |
     | Quality Control |        |           |        |
 ```
 
@@ -26,7 +26,14 @@ ___
     what each one represents:
 
 ```
-    **Replace This Text With Your Response**
+    t11_game:
+    We only have one class named "Game" that handles the logic of the game and runs it
+    
+    t11_NPC:
+    We only have one class named "NPC" that handles the chat that's running around (meaning the ennemy)
+    
+    t11_player:
+    We only have one class named "Player" that handles the chat player and enables us to move it around
 ```
 
 2.b. Look more closely at the **t11_game.py** file. There are 8 lines; identify if they are 
